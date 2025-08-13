@@ -1,0 +1,20 @@
+From df8c7f1e65ce867d2299c4044a6df7ab0efb27e8 Mon Sep 17 00:00:00 2001
+From: karunya1588 <karunyabamani7@gmail.com>
+Date: Wed, 6 Aug 2025 13:52:10 +0530
+Subject: [PATCH] footer.txt
+
+---
+ footer.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 footer.txt
+
+diff --git a/footer.txt b/footer.txt
+new file mode 100644
+index 0000000..d0886ba
+--- /dev/null
++++ b/footer.txt
+@@ -0,0 +1 @@
++fixing footer bug
+-- 
+2.50.1.windows.1
+
